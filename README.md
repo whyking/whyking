@@ -1,4 +1,5 @@
-Keep calm an care your code.
+Keep calm and care your code.
+
 <!--
 **whyking/whyking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
